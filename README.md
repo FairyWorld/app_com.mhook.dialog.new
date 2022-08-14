@@ -47,6 +47,5 @@ UI->应用列表添加图标
 云端仓库：https://github.com/orgs/Frida-Modules-Repo/repositories
 > 可以上传自己的脚本  
 # 反馈与交流
-[Discord](https://discord.gg/hDNx5mYGtA)  
-[酷安1](https://www.coolapk.com/feed/writer?type=topic&tag=对话框取消)(点击->打开方式选择酷安)  
-[酷安2](coolmarket://feed/writer?type=topic&tag=对话框取消)  
+- [Discord](https://discord.gg/hDNx5mYGtA)      
+- [酷安](https://www.coolapk.com/feed/writer?type=topic&tag=对话框取消)(点击->打开方式选择酷安)  
