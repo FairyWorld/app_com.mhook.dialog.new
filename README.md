@@ -48,4 +48,5 @@ UI->应用列表添加图标
 > 可以上传自己的脚本  
 # 反馈与交流
 - [Discord](https://discord.gg/hDNx5mYGtA)      
-- [酷安](https://www.coolapk.com/feed/writer?type=topic&tag=对话框取消)(点击->打开方式选择酷安)  
+- [酷安->一键提交反馈](https://www.coolapk.com/feed/writer?type=topic&tag=对话框取消)(点击->打开方式选择酷安)  
+- [酷安->#对话框取消 话题](https://www.coolapk.com/t/%E5%AF%B9%E8%AF%9D%E6%A1%86%E5%8F%96%E6%B6%88)
