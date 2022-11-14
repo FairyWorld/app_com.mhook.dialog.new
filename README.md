@@ -2,6 +2,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.mhook.dialog.new?style=plastic)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Xposed-Modules-Repo/com.mhook.dialog.new?style=plastic)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Xposed-Modules-Repo/com.mhook.dialog.new?style=plastic)  
+[English](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.new/blob/main/README_EN.md)  
 # 简介
 由于更新了很多功能，还放在[修复版](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.fix)里并不太合适，所以另建了一个分支，主要新增核心功能就是：Frida注入，欢迎尝鲜。  
 另外由于没有服务器，对话框取消新版的内置更新是直接访问github的，Frida脚本仓库和下载配置环境也是在github.com  
