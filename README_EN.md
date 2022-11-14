@@ -32,4 +32,5 @@ ref: [Release](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.new/relea
 Cloud Warehouse: https://github.com/orgs/Frida-Modules-Repo/repositories
 > You can upload your own scripts  
 # Feedback and Communication
+- [issues](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.new/issues)  
 - [Discord](https://discord.gg/hDNx5mYGtA)      
