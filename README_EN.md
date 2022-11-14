@@ -33,5 +33,3 @@ Cloud Warehouse: https://github.com/orgs/Frida-Modules-Repo/repositories
 > You can upload your own scripts  
 # Feedback and Communication
 - [Discord](https://discord.gg/hDNx5mYGtA)      
-- [酷安->一键提交反馈](https://www.coolapk.com/feed/writer?type=topic&tag=对话框取消)(点击->打开方式选择酷安)  
-- [酷安->#对话框取消](https://www.coolapk.com/t/%E5%AF%B9%E8%AF%9D%E6%A1%86%E5%8F%96%E6%B6%88) 话题页面
