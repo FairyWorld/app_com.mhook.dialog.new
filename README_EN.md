@@ -6,7 +6,7 @@
 # Introduction
 Due to the update of many features, but also placed in the [fix version](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.fix) is not quite appropriate, so another branch was built, the main new core functionality is: Frida injection, welcome to try.  
 In addition, because there is no server, the dialog box to cancel the new version of the built-in updates is a direct access to github, Frida script repository and download configuration environment is also in github.com  
-There is also feedback can be directly in Cool On -> Topics -> # Dialog Cancellation under the release of feedback and suggestions, if there is a github account, you can submit feedback directly under the current issues (Dialog Cancellation -> About -> One Click Feedback (Cool On))  
+If you have a github account, you can submit feedback directly under the current issues.
 # Function
 This module can cancel some dialogs that are forced to be set as uncancelable, such as some forced update dialogs, and some ads (some rogue ads always make the x small).
 
