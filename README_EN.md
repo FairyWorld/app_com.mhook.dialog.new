@@ -23,8 +23,8 @@ This module can cancel some dialogs that are forced to be set as uncancelable, s
 ## Cautions
 1. This module does not support the latest dialogs and game dialogs! (Some latest dialogs are very similar to normal dialogs, please pay attention to distinguish them!)  
 
-# Update Preview
-//todo
+# Beta update
+https://install.appcenter.ms/users/serifer/apps/Dialbox
 # Change log
 ref: [Release](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.new/releases)  
 > Injecting Frida scripting functionality will enhance dialog cancellation across milestones, and any Xposed countermeasures will be useless, as Frida's injection will still work with Xposed disabled
