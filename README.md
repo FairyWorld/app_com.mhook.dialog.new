@@ -23,8 +23,8 @@
 ## 注意事项
 1.本模块不支持最新对话框和游戏对话框！（有些最新对话框与普通对话框非常像，请注意区分！）  
 
-# 更新预告
-//todo
+# 测试版更新
+https://install.appcenter.ms/users/serifer/apps/Dialbox
 # 更新日志
 参见 [Release](https://github.com/Xposed-Modules-Repo/com.mhook.dialog.new/releases)  
 > 注入Frida脚本功能，将跨里程碑式的加强对话框取消的能力，任何Xposed的反制措施都是没用的，因为在禁用Xposed的情况下，Frida的注入功能仍然是有效的
