@@ -32,7 +32,7 @@ https://install.appcenter.ms/users/serifer/apps/Dialbox
 云端仓库：https://github.com/orgs/Frida-Modules-Repo/repositories
 > 可以上传自己的脚本  
 # 用户配置仓库
-https://github.com/Dialbox-User-Profile/repositories
+https://github.com/Dialbox-User-Profile
 # 反馈与交流
 - [Discord](https://discord.gg/hDNx5mYGtA)      
 - [酷安->一键提交反馈](https://www.coolapk.com/feed/writer?type=topic&tag=对话框取消)(点击->打开方式选择酷安)  
